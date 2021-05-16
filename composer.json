@@ -1,5 +1,5 @@
 {
-    "name": "breda/faker-provider-english-words",
+    "name": "abbieben07/faker-provider-english-words",
     "description": "A Faker provider for English words.",
     "keywords": ["php", "faker", "fixtures", "data"],
     "type": "library",
